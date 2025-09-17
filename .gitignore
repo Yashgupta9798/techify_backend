@@ -1,2 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
 .env
-node_modules
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs
+*.log
+
+# Build output
+dist
+dist-ssr
+
+# Editor and IDE files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+
+# Optional: Add if you use these tools
+# coverage/              # Test coverage reports
+# .cache/               # Cache directories for bundlers
+# *.pid                 # Process ID files
+# *.seed                # Seed files for databases
