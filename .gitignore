@@ -23,6 +23,8 @@ dist-ssr
 .DS_Store
 hyy
 hiii
+
+h22
 # Optional: Add if you use these tools
 # coverage/              # Test coverage reports
 # .cache/               # Cache directories for bundlers
