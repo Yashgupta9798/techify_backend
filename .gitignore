@@ -23,6 +23,7 @@ dist-ssr
 .DS_Store
 
 anyfile
+hello
 # Optional: Add if you use these tools
 # coverage/              # Test coverage reports
 # .cache/               # Cache directories for bundlers
