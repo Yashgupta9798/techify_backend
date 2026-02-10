@@ -28,6 +28,7 @@ hh
 h22
 
 ffs
+df
 # Optional: Add if you use these tools
 # coverage/              # Test coverage reports
 # .cache/               # Cache directories for bundlers
